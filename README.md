@@ -103,11 +103,11 @@ The program generates two output files, one containing the sequence of operation
 ## Files and Directory Structure
 
 The project directory is organized as follows:
-- **part-1/**: Contains the files for the first part of the project.
+- **part-1-CSP/**: Contains the files for the first part of the project.
 	- **CSPStowage.py**: Main program.
     - **CSP-calls.sh**: Script including the calls to the program to run the test cases.
     - **CSP-tests/**: Example test files containing five bay maps and six container lists.
-- **part-2/**:  Contains the files for the second part of the project.
+- **part-2-search/**:  Contains the files for the second part of the project.
 	- **ASTARStowage.py**: Main program.
     - **ASTARStowage.sh**: Script to invoke the developed program.
 	- **ASTARStcalls.sh**: Script including the calls to the program to run the test cases.
